@@ -1,60 +1,72 @@
-<include file="./Tpl/public/admin_header.html" title="管理中心" keywords="追寻真实，做自己喜欢做的事" />
-
+<include file="./Tpl/public/admin_header.html" title="管理中心" keywords="" />
 <div id="main" class="clearfix">
-	<div id="column">
-		<ul>
-			<li class="panel">控制面板</li>
-			<li class="aticle">添加文章</li>
-			<li class="photo">上传照片</li>
-			<li class="comment">评论</li>
-			<li class="user">用户</li>
-			<li class="config">配置</li>
-		</ul>
-	</div>
-	<div id="content">
-		<form action="{$Think.const.ROOT}/admin/article_add_post.html" method="post" id="r_form">
-			<div class="item">
-				<label>标题</label><input type="text" name="title"
-					class="basic-input r_title" />
-			</div>	
-			<div class="item">
-				<textarea name="content" class="m_text r_content"></textarea>
-			</div>
-			<div class="item">
-				<label>类别</label><select name="category" class="r_category">
-					<volist name="list_catalog" id="vo">
-					<option value="{$vo.id}">{$vo.name}</option>
-					</volist>
-				</select>
-			</div>
-			<div class="item">
-				<label>日期</label><input type="text" name="create_time"
-					class="basic-input r_create_time" />
-			</div>
-			<div class="item">
-				<input type="submit" value="预览" id="preview" class="btn-submit" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<input type="submit" value="发表" class="btn-submit" />
-			</div>
-		</form>
-	</div>
+    <div id="column">
+        <ul>
+            <li class="panel">控制面板</li>
+            <li class="aticle">添加文章</li>
+            <li class="photo">上传照片</li>
+            <li class="comment">评论</li>
+            <li class="user">用户</li>
+            <li class="config">配置</li>
+        </ul>
+    </div>
+    <div id="content">
+        <div id="list_article">
+            <h2>文章列表</h2>
+            <table>
+               <thead>
+               <tr><th>序号</th><th>标题</th><th>分类</th><th>评论数</th><th>发布日期</th><th>修改日期</th><th>操作</th></tr>
+               </thead>
+               <tbody>
+               <volist name="arr_article" id="vo">
+               <tr><td>1<td class="text_l">{$vo.title}</td></td><td class="text_l">{$vo.category}</td><td>{$vo.comment_num}</td>
+               <td>{$vo.create_time|date='Y-m-d H:i', ###}</td><td></td><td class="color-b">修改、删除</td></tr>
+               </volist>
+               </tbody>
+            </table>
+        </div>
+        <form action="{$Think.const.ROOT}/admin/article_add_post.html" method="post" id="r_form" target="" class="hidden">
+            <div class="item">
+                <label>标题</label><input type="text" name="title"
+                    class="basic-input r_title" />
+            </div>    
+            <div class="item">
+                <textarea name="content" class="m_text r_content"></textarea>
+            </div>
+            <div class="item">
+                <label>类别</label><select name="category" class="r_category">
+                    <volist name="list_catalog" id="vo">
+                    <option value="{$vo.id}">{$vo.name}</option>
+                    </volist>
+                </select>
+            </div>
+            <div class="item">
+                <label>日期</label><input type="text" name="create_time"
+                    class="basic-input r_create_time" />
+            </div>
+            <div class="item">
+                <input type="submit" value="预览" id="preview" class="btn-submit" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="submit" value="发表" id="publish" class="btn-submit" />
+            </div>
+        </form>
+    </div>
 </div>
 <script type="text/javascript">
 $().ready(function(){
-	$('#preview').click(function(){
-		var url = $('#content form').attr('action'),
-		title = $('input[name="title"]').val(),
-		content = $('textarea[name="content"]').val(),
-		category = $('select[name="category"]').val(),
-		create_time = $('input[name="create_time"]').val();
-		//alert(url + ' '+title+'  '+content+'  '+category+'  '+create_time);
-		$.post(url,  {title:title,content:content, category:category, create_time:create_time}, function(data){
-			//alert(data);
-			alert('ff');
-		});
-		alert('000');
-		return false;
-	});
-});
+    //在新窗口中预览
+    $('#preview').click(function(){
+        var url = $('#content form').attr('action');
+        url = url.replace('?preview=1', '')+ '?preview=1';
+        $('form').attr('action', url).andSelf().attr('target', '_blank');
+    });
+     //发表
+    $('#publish').click(function(){
+        var url = $('#content form').attr('action');
+        url = url.replace('?preview=1', '');
+        $('form').attr('action', url).andSelf().attr('target', '');
+        
+    });
 
+});
 </script>
 <include file="./Tpl/public/footer.html" />
