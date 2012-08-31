@@ -1,0 +1,67 @@
+<include file="./Tpl/public/header.html" title="留言簿 ｜ 飘落涯个人博客" keywords="追寻真实，做自己喜欢做的事"/>
+<div id="main" class="clearfix">
+   <div id="content">
+      {$login_tip}
+      <div id="message">
+           {$list_comment}
+      </div><!--end  #message-->
+      
+   </div><!--end #content-->
+   
+   <div id="columns">
+      <div class="ami">
+        <p>你何时来?</p>
+        <p>你何时走?</p>
+        <p>你走了之后是否会再来?</p>
+        <p>你再来时是否会回到这里?</p>
+        <p>你回到这里时是否会回到今天?</p>
+        <p>那时的你是快乐还是忧伤?</p>
+        <p class="from"> ——&nbsp;&nbsp;玛吉阿米的留言簿</p>
+      </div> 
+   </div><!---end #columns-->
+   
+</div>
+<script type="text/javascript">
+  $().ready(function(){
+	  $('.m-child-item dt:only-child').parent().hide();  //隐藏没有回复的边框
+	  $('form').live('submit', function(){
+		 var comment = $.trim($(this).children('textarea[name="comment"]').val()),
+		 pid = $(this).children('input[name="pid"]').val();
+		 if(comment == ''){
+			new Dialog('<p class="color-r">内容不能为空</p>', {title:'错误提示', closeText:'<img src="/Common/image/dialog_close.gif" />'}).show();
+			return false;
+		 }
+		 $(this).children('div').children('div').children('span').children('input').attr('disabled','disabled'); //禁用按钮
+		 url = $(this).attr('action');
+		 $.post(url, {mod:true, comment:comment, pid:pid}, function(data){
+			 jsonText = eval('('+data+')'); 
+			 if(jsonText.status =='0'){
+				 new Dialog('<p class="color-r">'+jsonText.info+'</p>', {title:'错误提示', closeText:'<img src="/Common/image/dialog_close.gif" />'}).show();
+			 }else if(jsonText.status =='1'){
+				 new Dialog('<p>'+jsonText.info+'</p>', {title:'提示', closeText:'<img src="/Common/image/dialog_close.gif" />'}).show();
+				 $('textarea[name="comment"]').val(''); //提交成功后清空
+			 } 
+		 });
+		 $(this).children('div').children('div').children('span').children('input').removeAttr('disabled'); //启用按钮  注：this不能在post、get的ajax里用
+		 return false;
+	  });
+	  
+	  $('.m-reply').click(function(){
+		 $('.m_form').remove();
+		 var pid = $(this).children('a').attr('data'),
+		 html = '<form action="'.{$Think.const.ROOT}.'/message/m_post.html" method="post" class="m_form" style="display:none; height:44px;"><input type="hidden" name="pid" value="'+pid+'" />' 
+	         +'<textarea name="comment" class="m_text" style="height:20px; width:80%;"></textarea>'
+	         +'<div class="ui-button skin-button-willsilver" style="width: 60px; margin-top:2px; ">'
+	         +'<span class="ui-button-bg-left skin-button-willsilver-bg-left"></span>'
+	         +'<div class="ui-button-label skin-button-willsilver-label">'
+	         +'<span class="ui-button-text skin-button-willsilver-text"><input type="submit" value="回复" class="btn"></span>'
+	         +'</div>'
+	         +'</div>'
+	         +'</form>';
+	     $(this).parent().append(html);
+	     $('.m_form').slideDown('slow');
+	     return false;
+	  });
+  });
+</script>
+<include file="./Tpl/public/footer.html" />

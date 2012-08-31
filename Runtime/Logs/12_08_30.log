@@ -1,0 +1,1608 @@
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002026s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002161s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 21 行.
+[ 2012-08-30T22:20:36+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 21 行.
+[ 2012-08-30T22:20:36+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004991s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000535s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005169s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:20:36+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 20 行.
+[ 2012-08-30T22:20:36+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000643s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.008104s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.008207s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.049092s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.049187s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.004437s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.003540s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.015648s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.020548s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.044483s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.006646s ]
+[ 2012-08-30T22:20:36+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.006749s ]
+[ 2012-08-30T22:23:53+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:23:53+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002065s ]
+[ 2012-08-30T22:23:53+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002201s ]
+[ 2012-08-30T22:23:53+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:23:53+08:00 ] /me/ | NOTIC: [8] Undefined variable: refer CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:23:53+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:23:53+08:00 ] /me/ | NOTIC: [8] Undefined variable: refer CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:23:53+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005479s ]
+[ 2012-08-30T22:23:53+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000453s ]
+[ 2012-08-30T22:23:53+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005875s ]
+[ 2012-08-30T22:23:53+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:23:53+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:23:53+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000536s ]
+[ 2012-08-30T22:23:53+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:23:53+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002455s ]
+[ 2012-08-30T22:23:53+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002548s ]
+[ 2012-08-30T22:23:53+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.057977s ]
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.058104s ]
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001575s ]
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001479s ]
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001067s ]
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001322s ]
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005670s ]
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002101s ]
+[ 2012-08-30T22:23:54+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002430s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001997s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002147s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:25:35+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:25:35+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005442s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000513s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005460s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:25:35+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:25:35+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000560s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002746s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002839s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.022995s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023091s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.002103s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001626s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003353s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001594s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009079s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001528s ]
+[ 2012-08-30T22:25:35+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001613s ]
+[ 2012-08-30T22:27:26+08:00 ] /me/admin/ | ERR: (ThinkException) XML标签语法错误
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003591s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003763s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003303s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003412s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004790s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000406s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002245s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002342s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.052301s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.052418s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001313s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.003243s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001245s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001577s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007659s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001495s ]
+[ 2012-08-30T22:29:01+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001588s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002526s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002681s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001656s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001747s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004813s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000597s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002364s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002493s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.028330s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.028437s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001339s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001817s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001807s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001641s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006903s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001415s ]
+[ 2012-08-30T22:29:57+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001508s ]
+[ 2012-08-30T22:31:10+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:31:10+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002392s ]
+[ 2012-08-30T22:31:10+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002550s ]
+[ 2012-08-30T22:31:10+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:31:10+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002900s ]
+[ 2012-08-30T22:31:10+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002998s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004942s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000406s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001091s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001169s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 26 行.
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.015344s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015423s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000923s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000943s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000754s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001037s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003881s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001020s ]
+[ 2012-08-30T22:31:11+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001096s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.001582s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001713s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001225s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001307s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005179s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000416s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001272s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001358s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 26 行.
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.047856s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.047939s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001048s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001041s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000814s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001089s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004216s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001035s ]
+[ 2012-08-30T22:31:13+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001110s ]
+[ 2012-08-30T22:32:08+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:32:08+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002347s ]
+[ 2012-08-30T22:32:08+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002499s ]
+[ 2012-08-30T22:32:08+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:32:08+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001528s ]
+[ 2012-08-30T22:32:08+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001616s ]
+[ 2012-08-30T22:32:08+08:00 ] /me/admin/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:32:08+08:00 ] /me/admin/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004837s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000424s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002443s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002533s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.029057s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.029162s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001373s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001675s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001264s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002967s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007531s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001754s ]
+[ 2012-08-30T22:32:09+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001844s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001987s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002168s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:32:41+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:32:41+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005729s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000603s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005219s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:32:41+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:32:41+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000699s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002514s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002883s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.032708s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032810s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001438s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001656s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001274s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001345s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005967s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001365s ]
+[ 2012-08-30T22:32:41+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001446s ]
+[ 2012-08-30T22:34:46+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:34:46+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002201s ]
+[ 2012-08-30T22:34:46+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002344s ]
+[ 2012-08-30T22:34:46+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:34:47+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005026s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000540s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005502s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:34:47+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:34:47+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000782s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002929s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003034s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.071165s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.071256s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001507s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001491s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001043s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001267s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005533s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001266s ]
+[ 2012-08-30T22:34:47+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001339s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001137s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001262s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:35:12+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:35:12+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004813s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000750s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005371s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:35:12+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:35:12+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000791s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001166s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001254s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021097s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021193s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.002561s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.002239s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001143s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001876s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008117s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002311s ]
+[ 2012-08-30T22:35:12+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002407s ]
+[ 2012-08-30T22:35:14+08:00 ] /me/ROOT/user/login.html?refer=/me/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:35:14+08:00 ] /me/ROOT/user/login.html?refer=/me/ | INFO: Run CheckRoute Behavior [ RunTime:0.002232s ]
+[ 2012-08-30T22:35:14+08:00 ] /me/ROOT/user/login.html?refer=/me/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002368s ]
+[ 2012-08-30T22:35:14+08:00 ] /me/ROOT/user/login.html?refer=/me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:35:14+08:00 ] /me/ROOT/user/login.html?refer=/me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001720s ]
+[ 2012-08-30T22:35:14+08:00 ] /me/ROOT/user/login.html?refer=/me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001808s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002030s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002180s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' HomeAction.class.php 第 5 行.
+[ 2012-08-30T22:36:16+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:36:16+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:36:16+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005127s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000491s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005892s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 15 行.
+[ 2012-08-30T22:36:16+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 18 行.
+[ 2012-08-30T22:36:16+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000625s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002384s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002477s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021765s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021862s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001732s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001806s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001311s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001463s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006608s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001390s ]
+[ 2012-08-30T22:36:16+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001479s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001239s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001369s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' HomeAction.class.php 第 5 行.
+[ 2012-08-30T22:36:43+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:36:43+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:36:43+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004636s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000425s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005341s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 15 行.
+[ 2012-08-30T22:36:43+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 18 行.
+[ 2012-08-30T22:36:43+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000516s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001606s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001700s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019722s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019819s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001039s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001050s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000966s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001266s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004595s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002777s ]
+[ 2012-08-30T22:36:43+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002874s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001918s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002047s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:38:08+08:00 ] /me/ | NOTIC: [8] Use of undefined constant ROOT - assumed 'ROOT' CommonAction.class.php 第 23 行.
+[ 2012-08-30T22:38:08+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005020s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000430s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005151s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 15 行.
+[ 2012-08-30T22:38:08+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 18 行.
+[ 2012-08-30T22:38:08+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000624s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002606s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002709s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020539s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020627s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001295s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001246s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001150s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001349s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005254s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001564s ]
+[ 2012-08-30T22:38:08+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001651s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002003s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002135s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004955s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000565s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005471s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 15 行.
+[ 2012-08-30T22:42:12+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 18 行.
+[ 2012-08-30T22:42:12+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000771s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003173s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003277s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021914s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022002s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001396s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001320s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001122s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001507s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005572s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001515s ]
+[ 2012-08-30T22:42:12+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001602s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002052s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002254s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005063s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000410s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005364s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 15 行.
+[ 2012-08-30T22:42:28+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 18 行.
+[ 2012-08-30T22:42:28+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000570s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001147s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001223s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019129s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019220s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001229s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001052s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000791s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001212s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004512s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001200s ]
+[ 2012-08-30T22:42:28+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001278s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002230s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002492s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005677s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000545s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005320s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 15 行.
+[ 2012-08-30T22:43:06+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 18 行.
+[ 2012-08-30T22:43:06+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000676s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002317s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002407s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.023451s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023542s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001412s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001431s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001398s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001475s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005965s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001638s ]
+[ 2012-08-30T22:43:06+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001732s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001278s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001403s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004764s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000412s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.006138s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:43:15+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:43:15+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000508s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001239s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001322s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.018787s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018885s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001130s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001713s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001034s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001374s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005854s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001238s ]
+[ 2012-08-30T22:43:15+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001318s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002271s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002401s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001793s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001879s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004768s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000467s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002426s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002525s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026655s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026756s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001256s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001505s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001060s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001299s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005327s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001346s ]
+[ 2012-08-30T22:43:43+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001423s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002048s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002254s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004787s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000562s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005423s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:43:50+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:43:50+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000523s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001915s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002017s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020163s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020252s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001202s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001038s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000844s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001165s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004478s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001396s ]
+[ 2012-08-30T22:43:50+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001477s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002333s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002478s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001473s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001550s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005118s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000437s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002233s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002312s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026492s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026597s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001322s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001447s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001103s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001407s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005523s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001570s ]
+[ 2012-08-30T22:43:52+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001652s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002474s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002616s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001598s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001675s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005787s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000598s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003068s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003189s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019306s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019405s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001274s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001396s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001058s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001306s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005258s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001284s ]
+[ 2012-08-30T22:44:57+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001358s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002375s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002518s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002205s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002299s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005227s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000888s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002713s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002828s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026992s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027101s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001251s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001419s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002753s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001851s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007706s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001418s ]
+[ 2012-08-30T22:45:37+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001505s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002281s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002454s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001622s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001715s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.011474s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000642s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003685s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003798s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.033361s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033481s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001785s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001447s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001586s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001411s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006517s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.005205s ]
+[ 2012-08-30T22:46:12+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.005305s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002001s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002125s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004731s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000448s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005022s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:46:33+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:46:33+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000486s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002631s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002743s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021344s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021445s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001294s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001305s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001358s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002100s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006319s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001462s ]
+[ 2012-08-30T22:46:33+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001548s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.001673s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001810s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001288s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001369s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004664s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000489s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001285s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001382s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.015253s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015369s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001073s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000989s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000830s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001088s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004205s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001357s ]
+[ 2012-08-30T22:47:42+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001448s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002510s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002648s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001548s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001624s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004666s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000422s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002675s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002774s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.018929s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019062s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001672s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001663s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001233s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002352s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007213s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001402s ]
+[ 2012-08-30T22:48:38+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001479s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001356s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001481s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004849s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000423s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005758s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:48:40+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:48:40+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000598s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001830s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001915s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.049218s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.049336s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001530s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001514s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001289s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001849s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006530s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001818s ]
+[ 2012-08-30T22:48:40+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002192s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002044s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002179s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004780s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000411s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005456s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:50:13+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:50:13+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000511s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002518s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002612s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020376s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020468s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001392s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001286s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001023s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001378s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005313s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001471s ]
+[ 2012-08-30T22:50:13+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001557s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.001853s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001983s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001549s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001631s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004678s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000443s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001750s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001836s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.015351s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015456s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.000985s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.000991s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001016s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001736s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004974s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001234s ]
+[ 2012-08-30T22:50:16+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001323s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001126s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001256s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005000s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000893s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005526s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:50:47+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:50:47+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000492s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001690s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001780s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019020s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019115s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.000959s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001097s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000752s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001442s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004481s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001094s ]
+[ 2012-08-30T22:50:47+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001167s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002527s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002680s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.017766s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.001092s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.009073s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T22:51:32+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T22:51:32+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000759s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004357s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004470s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.035460s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035572s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001588s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.002130s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001433s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001521s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007279s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001575s ]
+[ 2012-08-30T22:51:32+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001679s ]
+[ 2012-08-30T22:51:35+08:00 ] /me/diary/content.html?id=7 | ERR: (ThinkException) XML标签语法错误
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001874s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002002s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006154s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000568s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005559s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T23:04:20+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T23:04:20+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000946s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002305s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002388s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.061707s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.061806s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001323s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001345s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001058s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001927s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005978s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001497s ]
+[ 2012-08-30T23:04:20+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001585s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Run CheckRoute Behavior [ RunTime:0.002396s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002535s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001816s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001910s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005183s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000533s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005110s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | SQL: SELECT * FROM `my_article` WHERE id='7' LIMIT 1   [ RunTime:0.000516s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | SQL: SELECT COUNT(id) AS num, `year_month` FROM my_article  GROUP BY `year_month` ORDER BY `year_month` DESC [ RunTime:0.000318s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Run LocationTemplate Behavior [ RunTime:0.002465s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002562s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Run ParseTemplate Behavior [ RunTime:0.051178s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.051377s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Run ContentReplace Behavior [ RunTime:0.002163s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Run TokenBuild Behavior [ RunTime:0.002178s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002311s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Run ShowRuntime Behavior [ RunTime:0.002541s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009670s ]
+[ 2012-08-30T23:04:22+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:04:23+08:00 ] /me/diary/content.html?id=7 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002361s ]
+[ 2012-08-30T23:04:23+08:00 ] /me/diary/content.html?id=7 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002504s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002592s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002743s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005740s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000440s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.006363s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-30T23:11:10+08:00 ] /me/ | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-30T23:11:10+08:00 ] /me/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000654s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002515s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002611s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Run ParseTemplate Behavior [ RunTime:0.023612s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023717s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Run ContentReplace Behavior [ RunTime:0.001508s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Run TokenBuild Behavior [ RunTime:0.001385s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001660s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001438s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006274s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001462s ]
+[ 2012-08-30T23:11:10+08:00 ] /me/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001552s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002495s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002631s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002162s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002257s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.007157s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000457s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002575s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002667s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.018057s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018167s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001290s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002166s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001302s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001980s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007012s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001533s ]
+[ 2012-08-30T23:12:06+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001620s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002689s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002819s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002214s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002296s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005206s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000592s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004014s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004118s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.031153s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031258s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002072s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002025s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001429s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001702s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007474s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002963s ]
+[ 2012-08-30T23:16:48+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003069s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002431s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002562s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001951s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002049s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005402s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000427s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002916s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003017s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.056609s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.056735s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002201s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001609s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001161s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002185s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007433s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003558s ]
+[ 2012-08-30T23:18:26+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003748s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002500s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002622s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002237s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002321s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004958s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000452s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003521s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003619s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.030896s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031000s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001888s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001994s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001465s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001863s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007468s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001710s ]
+[ 2012-08-30T23:19:03+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001793s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002686s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002828s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001873s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001948s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005672s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000478s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003469s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003805s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.032552s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032663s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001678s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001889s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002280s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001986s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008311s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001641s ]
+[ 2012-08-30T23:22:38+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001720s ]
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.003025s ]
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003163s ]
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003299s ]
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003394s ]
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005938s ]
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004977s ]
+[ 2012-08-30T23:22:50+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000404s ]
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.003280s ]
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003421s ]
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002597s ]
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002682s ]
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005685s ]
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005044s ]
+[ 2012-08-30T23:24:12+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000385s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002914s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003046s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002597s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002685s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005181s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000416s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003867s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003957s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.022587s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022690s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002006s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002118s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002136s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002141s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008635s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002132s ]
+[ 2012-08-30T23:25:31+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002215s ]
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002690s ]
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002821s ]
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002421s ]
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002503s ]
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 17 行.
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005711s ]
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004768s ]
+[ 2012-08-30T23:25:48+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000379s ]
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.003439s ]
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003616s ]
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002562s ]
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002649s ]
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 17 行.
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005225s ]
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004984s ]
+[ 2012-08-30T23:26:03+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000429s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002807s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002972s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002086s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002161s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005252s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000450s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003278s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003370s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020127s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020235s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001861s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001893s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001853s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001950s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007806s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001884s ]
+[ 2012-08-30T23:34:58+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001969s ]
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.003054s ]
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003202s ]
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002175s ]
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002270s ]
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005199s ]
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004836s ]
+[ 2012-08-30T23:35:05+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000370s ]
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002809s ]
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002937s ]
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002353s ]
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002434s ]
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005161s ]
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005887s ]
+[ 2012-08-30T23:35:52+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000514s ]
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002262s ]
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002401s ]
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002574s ]
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002664s ]
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005475s ]
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005103s ]
+[ 2012-08-30T23:35:59+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000381s ]
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002476s ]
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002615s ]
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002319s ]
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002406s ]
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005354s ]
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004904s ]
+[ 2012-08-30T23:36:06+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000536s ]
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.003089s ]
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003236s ]
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002507s ]
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002598s ]
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005261s ]
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005356s ]
+[ 2012-08-30T23:36:10+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000547s ]
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002970s ]
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003105s ]
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001984s ]
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002071s ]
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005101s ]
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005001s ]
+[ 2012-08-30T23:36:39+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000388s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002468s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002606s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002467s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002565s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005262s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000791s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004007s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004102s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021578s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021685s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002063s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.003015s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002093s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002099s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009520s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002675s ]
+[ 2012-08-30T23:36:42+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002778s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002401s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002532s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002387s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002488s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005142s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000583s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003524s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003613s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.023258s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023371s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002054s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002172s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001931s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002074s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008481s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001858s ]
+[ 2012-08-30T23:36:53+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001933s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.004617s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004757s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001872s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001967s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004764s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000477s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004027s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005278s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.022466s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022571s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.003617s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002349s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001406s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001679s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009317s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002835s ]
+[ 2012-08-30T23:37:47+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002933s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003236s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003380s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002324s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002412s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.046563s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000430s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003549s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003650s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021974s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022089s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001854s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001648s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001396s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001650s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006787s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001730s ]
+[ 2012-08-30T23:38:34+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001811s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003395s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003908s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001895s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001971s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005269s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000583s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003032s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003129s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020865s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020973s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001588s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.003059s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001837s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001900s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008654s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001658s ]
+[ 2012-08-30T23:42:03+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001735s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003468s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003601s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002286s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002383s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005594s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.001155s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.005887s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.005989s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.022036s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022144s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001526s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002645s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001482s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001608s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007499s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001676s ]
+[ 2012-08-30T23:42:30+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001761s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002668s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002805s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002012s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002088s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004988s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000421s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004343s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004443s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020356s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020469s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001588s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001827s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001368s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001574s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006577s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001934s ]
+[ 2012-08-30T23:43:13+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002015s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002948s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003083s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003004s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003092s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005032s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000492s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004150s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004249s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.024627s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024730s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002148s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002086s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001995s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002272s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008763s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002547s ]
+[ 2012-08-30T23:45:36+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002634s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003427s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003591s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003714s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003816s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.007103s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000859s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.016474s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.016589s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.030557s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030673s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001711s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001838s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.011161s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001936s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.016951s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003192s ]
+[ 2012-08-30T23:47:59+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.003294s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002708s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002845s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001870s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001952s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005237s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000628s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003249s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003342s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020746s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020865s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001724s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001671s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002441s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001972s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008096s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001845s ]
+[ 2012-08-30T23:51:05+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001941s ]
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.003229s ]
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003381s ]
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001872s ]
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001950s ]
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005709s ]
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004713s ]
+[ 2012-08-30T23:51:07+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000412s ]
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.003188s ]
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003327s ]
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002943s ]
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003035s ]
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005695s ]
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005175s ]
+[ 2012-08-30T23:51:08+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000409s ]
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002737s ]
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002869s ]
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001765s ]
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001845s ]
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005398s ]
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005089s ]
+[ 2012-08-30T23:51:41+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000420s ]
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002278s ]
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002407s ]
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001799s ]
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001879s ]
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005444s ]
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005118s ]
+[ 2012-08-30T23:51:56+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000395s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003010s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003147s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001924s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002006s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.011583s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000567s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003438s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003548s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020418s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020529s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001811s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001600s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001390s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001575s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006611s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001647s ]
+[ 2012-08-30T23:52:38+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001733s ]
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002168s ]
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002303s ]
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001690s ]
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001771s ]
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005462s ]
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005667s ]
+[ 2012-08-30T23:52:41+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000509s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003534s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003670s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001904s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001993s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005602s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000421s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003219s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003320s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.023783s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023894s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002209s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001626s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001297s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001563s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006922s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001787s ]
+[ 2012-08-30T23:53:50+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001872s ]
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002467s ]
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002596s ]
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001795s ]
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001869s ]
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.004990s ]
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005224s ]
+[ 2012-08-30T23:53:53+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000382s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.001690s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001831s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001698s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001780s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006149s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000622s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003303s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003400s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.022936s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.023051s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001730s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001592s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001383s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002731s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007687s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001956s ]
+[ 2012-08-30T23:54:18+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002041s ]
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.001898s ]
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002027s ]
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001732s ]
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001808s ]
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005504s ]
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005265s ]
+[ 2012-08-30T23:54:20+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000385s ]
+[ 2012-08-30T23:56:03+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:56:03+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002709s ]
+[ 2012-08-30T23:56:03+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002841s ]
+[ 2012-08-30T23:56:03+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:56:03+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002485s ]
+[ 2012-08-30T23:56:03+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002574s ]
+[ 2012-08-30T23:56:04+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:56:04+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005309s ]
+[ 2012-08-30T23:56:04+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005000s ]
+[ 2012-08-30T23:56:04+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000412s ]
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.001624s ]
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.001752s ]
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001891s ]
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001974s ]
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005825s ]
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005092s ]
+[ 2012-08-30T23:56:15+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000522s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003133s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003289s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001922s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002006s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005845s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000469s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002948s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003050s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.022232s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022354s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001733s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002664s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002561s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002461s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009859s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.003930s ]
+[ 2012-08-30T23:56:43+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004036s ]
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002403s ]
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002534s ]
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001510s ]
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001583s ]
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005048s ]
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004810s ]
+[ 2012-08-30T23:56:45+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000471s ]
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002989s ]
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003129s ]
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002796s ]
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002889s ]
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.043414s ]
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005245s ]
+[ 2012-08-30T23:57:54+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000638s ]
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.002228s ]
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002362s ]
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002884s ]
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002987s ]
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005000s ]
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004918s ]
+[ 2012-08-30T23:58:07+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000366s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003295s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003428s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001715s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001792s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006372s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000492s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003839s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003934s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.025828s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.025930s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001417s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002664s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001270s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004001s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.009596s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001652s ]
+[ 2012-08-30T23:58:08+08:00 ] /me/admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001727s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.001732s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.001863s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001111s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001219s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005349s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.008974s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000454s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Run CheckRoute Behavior [ RunTime:0.003155s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.003297s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001586s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001666s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | NOTIC: [8] Undefined index: Sada_username AdminAction.class.php 第 16 行.
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005316s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.004525s ]
+[ 2012-08-30T23:58:11+08:00 ] /me/admin/article_add_post.html | SQL: SELECT * FROM `my_catalog` WHERE id='1' LIMIT 1   [ RunTime:0.000375s ]

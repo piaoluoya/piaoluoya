@@ -1,0 +1,60 @@
+<include file="./Tpl/public/header.html" title="登录 ｜ 飘落涯个人博客" keywords="追寻真实，做自己喜欢做的事"/>
+
+<div id="main" class="clearfix">
+   <div id="content">  
+      <h1 class="login-h1">登录</h1>
+      <form id="login_form" name="login_form" method="post" action="{$Think.const.ROOT}/user/login_p.html" >
+        <div class="item">
+            <label>帐号</label>
+            <input id="username" name="username" type="text" class="basic-input" maxlength="60"  tabindex="1">
+        </div>
+        <div class="item">
+            <label>密码</label>
+            <input id="password" name="password" type="password" class="basic-input" maxlength="20" tabindex="2">
+        </div>
+        <div class="item">
+            <label>&nbsp;</label>
+            <p class="remember">
+                <input type="checkbox" id="remember" name="remember" tabindex="3" value="1">
+                <label for="remember" class="remember">下次自动登录</label>&nbsp;|&nbsp;<a href="http://www.douban.com/accounts/resetpassword">忘记密码了</a>
+            </p>
+        </div>
+        <div class="item">
+            <label>&nbsp;</label>
+            <input type="submit" value="登录" name="user_login" class="btn-submit" tabindex="4">
+        </div>
+      </form>
+     <div class="login-tip">木有账号，还等什么，<a href="{$Think.const.ROOT}/user/register.html" style="color:#E17F2D">马上去注册</a></div>
+   </div>
+   <div id="columns">
+      <p>注册登录的好处：</p>
+      <p>1、更快捷、更方便的留言评论；</p>
+      <p>2、自定义个性头像；</p>
+      <p>3、获得被回复的优先权(不保证回复每一条评论或留言)；</p>
+      <p>4、查看博客主的联系方式；</p>
+      <p>5、后续将优先获得更好的体验等等。</p>
+   </div>
+</div>
+<script type="text/javascript">
+ $().ready(function(){
+	$('#login_form').submit(function(){
+		$('#login_error').remove();  //去掉错误提示
+		var username = $.trim($('input[name="username"]').val()),
+		password = $('input[name="password"]').val(),
+		remember = $('input[name="remember"]:checked').val(),
+		url = $(this).attr('action');
+		$.post(url,{mod:true, username:username, password:password, remember:remember}, function(data){
+			jsonText = eval('('+ data +')');
+			if(jsonText.status == '0'){
+				$('<div id="login_error">' + jsonText.info + '</div>').insertBefore('.item:eq(0)');
+			}else if(jsonText.status == '1'){
+				var refer = getUrlVars()["refer"];
+				window.location.href= refer;
+			}
+			
+		});
+		return false;
+	});
+ });
+</script>
+<include file="./Tpl/public/footer.html" />

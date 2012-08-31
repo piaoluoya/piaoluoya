@@ -1,0 +1,45 @@
+<include file="./Tpl/public/admin_header.html"
+	title="管理中心 ｄ1�7 飘落涯个人博宄1�7" keywords="追寻真实，做自己喜欢做的亄1�7" />
+
+<div id="main" class="clearfix">
+	<div id="column">
+		<ul>
+			<li class="panel">控制面板</li>
+			<li class="aticle">添加文章</li>
+			<li class="photo">上传照片</li>
+			<li class="comment">评论</li>
+			<li class="user">用户</li>
+			<li class="config">配置</li>
+		</ul>
+	</div>
+	<div id="content">
+		<form action="/admin/remember_post.html" method="post" id="r_form">
+			<div class="item">
+				<label>标题</label><input type="text" name="title"
+					class="basic-input r_title" />
+			</div>
+			<div class="item">
+				<textarea name="content" class="m_text r_content"></textarea>
+			</div>
+			<div class="item">
+				<label>类别</label><select name="category" class="r_category">
+					<volist name="list_catalog" id="vo">
+					<option value="{$vo.id}">{$vo.name}</option>
+					</volist>
+				</select>
+			</div>
+			<div class="item">
+				<label>日期</label><input type="text" name="create_time"
+					class="basic-input r_create_time" />
+			</div>
+			<div class="item">
+				<input type="submit" value="预览" class="btn-submit" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="submit" value="发表" class="btn-submit" />
+			</div>
+		</form>
+	</div>
+</div>
+<div id="footer">
+	版权扄1�7朄1�7&copy;2012 &nbsp;&nbsp;飘落涄1�7/div>
+	</body>
+	</html>

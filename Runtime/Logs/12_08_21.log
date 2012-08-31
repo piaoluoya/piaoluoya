@@ -1,0 +1,1501 @@
+[ 2012-08-21T22:22:12+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:22:12+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.055322s ]
+[ 2012-08-21T22:22:12+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.075329s ]
+[ 2012-08-21T22:22:19+08:00 ] / | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:1.461870s ]
+[ 2012-08-21T22:22:19+08:00 ] / | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.076716s ]
+[ 2012-08-21T22:22:19+08:00 ] / | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.173478s ]
+[ 2012-08-21T22:22:19+08:00 ] / | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-21T22:22:19+08:00 ] / | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-21T22:22:19+08:00 ] / | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000762s ]
+[ 2012-08-21T22:22:19+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T22:22:19+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.279538s ]
+[ 2012-08-21T22:22:19+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.279661s ]
+[ 2012-08-21T22:22:19+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:1.267598s ]
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:1.267724s ]
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.057430s ]
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.057956s ]
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.031087s ]
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.015870s ]
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.162920s ]
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.016605s ]
+[ 2012-08-21T22:22:21+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.016818s ]
+[ 2012-08-21T22:22:28+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:22:28+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.031047s ]
+[ 2012-08-21T22:22:28+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.031202s ]
+[ 2012-08-21T22:22:28+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:22:28+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002525s ]
+[ 2012-08-21T22:22:28+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002617s ]
+[ 2012-08-21T22:22:33+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:22:33+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.003147s ]
+[ 2012-08-21T22:22:33+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.003301s ]
+[ 2012-08-21T22:22:33+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:22:33+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003495s ]
+[ 2012-08-21T22:22:33+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003672s ]
+[ 2012-08-21T22:22:36+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:22:36+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.013781s ]
+[ 2012-08-21T22:22:36+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.013957s ]
+[ 2012-08-21T22:22:36+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:22:36+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.006329s ]
+[ 2012-08-21T22:22:36+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006444s ]
+[ 2012-08-21T22:22:49+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:22:49+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002172s ]
+[ 2012-08-21T22:22:49+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002298s ]
+[ 2012-08-21T22:22:49+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:22:49+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001835s ]
+[ 2012-08-21T22:22:49+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001909s ]
+[ 2012-08-21T22:22:55+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:22:55+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.004076s ]
+[ 2012-08-21T22:22:55+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.004229s ]
+[ 2012-08-21T22:22:55+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:22:55+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004402s ]
+[ 2012-08-21T22:22:55+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004518s ]
+[ 2012-08-21T22:23:14+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:23:14+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.006054s ]
+[ 2012-08-21T22:23:14+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.006257s ]
+[ 2012-08-21T22:23:14+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:23:14+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.005228s ]
+[ 2012-08-21T22:23:14+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.005357s ]
+[ 2012-08-21T22:27:20+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:27:20+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.003079s ]
+[ 2012-08-21T22:27:20+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.003213s ]
+[ 2012-08-21T22:27:20+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:27:20+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001884s ]
+[ 2012-08-21T22:27:20+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001968s ]
+[ 2012-08-21T22:27:39+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:27:39+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001817s ]
+[ 2012-08-21T22:27:39+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001951s ]
+[ 2012-08-21T22:27:39+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:27:39+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001680s ]
+[ 2012-08-21T22:27:39+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001754s ]
+[ 2012-08-21T22:27:46+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:27:46+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.003126s ]
+[ 2012-08-21T22:27:46+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.003310s ]
+[ 2012-08-21T22:27:46+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:27:46+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001698s ]
+[ 2012-08-21T22:27:46+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001774s ]
+[ 2012-08-21T22:41:28+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:41:28+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002784s ]
+[ 2012-08-21T22:41:28+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002939s ]
+[ 2012-08-21T22:41:28+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:41:28+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001819s ]
+[ 2012-08-21T22:41:28+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001902s ]
+[ 2012-08-21T22:41:35+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:41:35+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002095s ]
+[ 2012-08-21T22:41:35+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002239s ]
+[ 2012-08-21T22:41:35+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:41:35+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001730s ]
+[ 2012-08-21T22:41:35+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001811s ]
+[ 2012-08-21T22:51:02+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:51:02+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002334s ]
+[ 2012-08-21T22:51:02+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002468s ]
+[ 2012-08-21T22:51:02+08:00 ] / | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.007242s ]
+[ 2012-08-21T22:51:02+08:00 ] / | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000771s ]
+[ 2012-08-21T22:51:03+08:00 ] / | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.006102s ]
+[ 2012-08-21T22:51:03+08:00 ] / | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-21T22:51:03+08:00 ] / | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-21T22:51:03+08:00 ] / | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000513s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.003425s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.003514s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.035410s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035512s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.002110s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.001996s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001836s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.001880s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008057s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.002226s ]
+[ 2012-08-21T22:51:03+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.002319s ]
+[ 2012-08-21T22:51:04+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:51:04+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002340s ]
+[ 2012-08-21T22:51:04+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002463s ]
+[ 2012-08-21T22:51:04+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:51:04+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003175s ]
+[ 2012-08-21T22:51:04+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003270s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Run CheckRoute Behavior [ RunTime:0.003317s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003454s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003321s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003419s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005608s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000444s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.005711s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | NOTIC: [8] Undefined index: id DiaryAction.class.php 第 19 行.
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | NOTIC: [8] Undefined index: archive DiaryAction.class.php 第 20 行.
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000583s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | SQL: SELECT COUNT(id) AS num, `year_month` FROM my_article  GROUP BY `year_month` ORDER BY `year_month` DESC [ RunTime:0.000345s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Run LocationTemplate Behavior [ RunTime:0.057674s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.057783s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Run ParseTemplate Behavior [ RunTime:0.103399s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.103507s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Run ContentReplace Behavior [ RunTime:0.002876s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Run TokenBuild Behavior [ RunTime:0.002839s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.004834s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002407s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.013247s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002182s ]
+[ 2012-08-21T22:51:13+08:00 ] /diary/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002267s ]
+[ 2012-08-21T22:51:15+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:51:15+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002226s ]
+[ 2012-08-21T22:51:15+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002351s ]
+[ 2012-08-21T22:51:15+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:51:15+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002100s ]
+[ 2012-08-21T22:51:15+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002184s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Run CheckRoute Behavior [ RunTime:0.002382s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002516s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002080s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002156s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002989s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003106s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Run ParseTemplate Behavior [ RunTime:0.120904s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.121049s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Run ContentReplace Behavior [ RunTime:0.003115s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Run TokenBuild Behavior [ RunTime:0.002922s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003077s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002454s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011923s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002117s ]
+[ 2012-08-21T22:51:17+08:00 ] /gallery/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002197s ]
+[ 2012-08-21T22:51:18+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:51:18+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002520s ]
+[ 2012-08-21T22:51:18+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002654s ]
+[ 2012-08-21T22:51:18+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:51:18+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001929s ]
+[ 2012-08-21T22:51:18+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002004s ]
+[ 2012-08-21T22:51:24+08:00 ] /message/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:51:24+08:00 ] /message/ | INFO: Run CheckRoute Behavior [ RunTime:0.002827s ]
+[ 2012-08-21T22:51:24+08:00 ] /message/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003339s ]
+[ 2012-08-21T22:51:24+08:00 ] /message/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:51:24+08:00 ] /message/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002134s ]
+[ 2012-08-21T22:51:24+08:00 ] /message/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002229s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | SQL: SELECT c.id AS cid, pid, `comment`, c.create_time AS createtime, username,realname, avatar FROM my_comment AS c, my_user AS u 
+       		WHERE(article_id='10000' and pid=0 AND c.userid = u.id) order by createtime desc [ RunTime:0.133855s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 34 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 38 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | SQL: SELECT c.id AS cid, pid, `comment`, c.create_time AS createtime, username,realname, avatar FROM my_comment AS c, my_user AS u
+    			WHERE(article_id='10000' and pid='47' AND c.userid = u.id) order by createtime desc [ RunTime:0.000404s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 34 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 38 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | SQL: SELECT c.id AS cid, pid, `comment`, c.create_time AS createtime, username,realname, avatar FROM my_comment AS c, my_user AS u
+    			WHERE(article_id='10000' and pid='41' AND c.userid = u.id) order by createtime desc [ RunTime:0.000406s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 114 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 118 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | SQL: SELECT c.id AS cid, pid, `comment`, c.create_time AS createtime, username,realname, avatar FROM my_comment AS c, my_user AS u
+    			WHERE(article_id='10000' and pid='43' AND c.userid = u.id) order by createtime desc [ RunTime:0.000362s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 114 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 118 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | SQL: SELECT c.id AS cid, pid, `comment`, c.create_time AS createtime, username,realname, avatar FROM my_comment AS c, my_user AS u
+    			WHERE(article_id='10000' and pid='42' AND c.userid = u.id) order by createtime desc [ RunTime:0.000420s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 114 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 118 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | SQL: SELECT c.id AS cid, pid, `comment`, c.create_time AS createtime, username,realname, avatar FROM my_comment AS c, my_user AS u
+    			WHERE(article_id='10000' and pid='44' AND c.userid = u.id) order by createtime desc [ RunTime:0.000385s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 114 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 118 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | SQL: SELECT c.id AS cid, pid, `comment`, c.create_time AS createtime, username,realname, avatar FROM my_comment AS c, my_user AS u
+    			WHERE(article_id='10000' and pid='45' AND c.userid = u.id) order by createtime desc [ RunTime:0.000365s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 114 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | NOTIC: [8] Undefined index: Sada_username MessageAction.class.php 第 118 行.
+[ 2012-08-21T22:51:25+08:00 ] /message/ | SQL: SELECT c.id AS cid, pid, `comment`, c.create_time AS createtime, username,realname, avatar FROM my_comment AS c, my_user AS u
+    			WHERE(article_id='10000' and pid='46' AND c.userid = u.id) order by createtime desc [ RunTime:0.000349s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003600s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003716s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Run ParseTemplate Behavior [ RunTime:0.052842s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.052968s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Run ContentReplace Behavior [ RunTime:0.002280s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Run TokenBuild Behavior [ RunTime:0.002725s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002267s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Run ShowRuntime Behavior [ RunTime:0.002646s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.010229s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002536s ]
+[ 2012-08-21T22:51:25+08:00 ] /message/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002652s ]
+[ 2012-08-21T22:51:26+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:51:26+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002248s ]
+[ 2012-08-21T22:51:26+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002388s ]
+[ 2012-08-21T22:51:26+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:51:26+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001976s ]
+[ 2012-08-21T22:51:26+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002060s ]
+[ 2012-08-21T22:52:32+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:52:32+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002506s ]
+[ 2012-08-21T22:52:32+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002696s ]
+[ 2012-08-21T22:52:32+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:52:32+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001563s ]
+[ 2012-08-21T22:52:32+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001639s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005630s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000684s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002585s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002668s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 24 行.
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.056337s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.056415s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001403s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001445s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001215s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001588s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005863s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001729s ]
+[ 2012-08-21T22:52:33+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001814s ]
+[ 2012-08-21T22:52:34+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T22:52:34+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001835s ]
+[ 2012-08-21T22:52:34+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001964s ]
+[ 2012-08-21T22:52:34+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T22:52:34+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001847s ]
+[ 2012-08-21T22:52:34+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002143s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002280s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002404s ]
+[ 2012-08-21T23:05:10+08:00 ] / | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005555s ]
+[ 2012-08-21T23:05:10+08:00 ] / | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000618s ]
+[ 2012-08-21T23:05:10+08:00 ] / | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.006026s ]
+[ 2012-08-21T23:05:10+08:00 ] / | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-21T23:05:10+08:00 ] / | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-21T23:05:10+08:00 ] / | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000498s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.002773s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.002856s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.022360s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022454s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.001419s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.001389s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001250s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.001451s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005723s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.001458s ]
+[ 2012-08-21T23:05:10+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.001549s ]
+[ 2012-08-21T23:05:12+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:05:12+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002157s ]
+[ 2012-08-21T23:05:12+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002287s ]
+[ 2012-08-21T23:05:12+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:05:12+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001978s ]
+[ 2012-08-21T23:05:12+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002068s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Run CheckRoute Behavior [ RunTime:0.002692s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002858s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001511s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001594s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003405s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003515s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Run ParseTemplate Behavior [ RunTime:0.035841s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035939s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Run ContentReplace Behavior [ RunTime:0.001244s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Run TokenBuild Behavior [ RunTime:0.001505s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001364s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001694s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006055s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001615s ]
+[ 2012-08-21T23:05:14+08:00 ] /user/login.html?refer=/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001696s ]
+[ 2012-08-21T23:05:15+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:05:15+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002038s ]
+[ 2012-08-21T23:05:15+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002181s ]
+[ 2012-08-21T23:05:15+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:05:15+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001586s ]
+[ 2012-08-21T23:05:15+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001680s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Run CheckRoute Behavior [ RunTime:0.002393s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002528s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001362s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001443s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | NOTIC: [8] Undefined index: refer UserAction.class.php 第 47 行.
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Run LocationTemplate Behavior [ RunTime:0.002903s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.003002s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | NOTIC: [8] Undefined variable: javascript a4f647d3a8256d5aa7b5acedd8d4b932.php 第 133 行.
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Run ParseTemplate Behavior [ RunTime:0.075266s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.075344s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Run ContentReplace Behavior [ RunTime:0.001574s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Run TokenBuild Behavior [ RunTime:0.001750s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001240s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Run ShowRuntime Behavior [ RunTime:0.001493s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006271s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.001485s ]
+[ 2012-08-21T23:05:28+08:00 ] /user/register.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.001559s ]
+[ 2012-08-21T23:05:30+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:05:30+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001390s ]
+[ 2012-08-21T23:05:30+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001513s ]
+[ 2012-08-21T23:05:30+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:05:30+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001034s ]
+[ 2012-08-21T23:05:30+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001107s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002248s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002386s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001513s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001602s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005609s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000461s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003011s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003131s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 25 行.
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020424s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020504s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001381s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001398s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001214s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001452s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005655s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001683s ]
+[ 2012-08-21T23:09:35+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001765s ]
+[ 2012-08-21T23:09:35+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:09:35+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002181s ]
+[ 2012-08-21T23:09:35+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002319s ]
+[ 2012-08-21T23:09:35+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:09:35+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001685s ]
+[ 2012-08-21T23:09:35+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001787s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.001720s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001889s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001165s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001246s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005771s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000423s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002292s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002398s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 25 行.
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026527s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026607s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001174s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001354s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000943s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001138s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004828s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001179s ]
+[ 2012-08-21T23:09:38+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001253s ]
+[ 2012-08-21T23:09:39+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:09:39+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001503s ]
+[ 2012-08-21T23:09:39+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001634s ]
+[ 2012-08-21T23:09:39+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:09:39+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001201s ]
+[ 2012-08-21T23:09:39+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001289s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.004410s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004541s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004391s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004474s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006359s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000424s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.006120s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.006215s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 25 行.
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.033136s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033232s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.004657s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.003866s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.003745s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.004267s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.016823s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004079s ]
+[ 2012-08-21T23:11:10+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004158s ]
+[ 2012-08-21T23:11:11+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:11:11+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.004433s ]
+[ 2012-08-21T23:11:11+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.004566s ]
+[ 2012-08-21T23:11:11+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:11:11+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004008s ]
+[ 2012-08-21T23:11:11+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004100s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002511s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002642s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002070s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002155s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006507s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000518s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002885s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002977s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 25 行.
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.018913s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018992s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001474s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001484s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001235s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001687s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006103s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001548s ]
+[ 2012-08-21T23:11:30+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001627s ]
+[ 2012-08-21T23:11:31+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:11:31+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002430s ]
+[ 2012-08-21T23:11:31+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002598s ]
+[ 2012-08-21T23:11:31+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:11:31+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001090s ]
+[ 2012-08-21T23:11:31+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001164s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002376s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002501s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003598s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003694s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005613s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000462s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002821s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002905s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 25 行.
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.028911s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.028988s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001522s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001625s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001515s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001686s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006649s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001542s ]
+[ 2012-08-21T23:12:42+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001620s ]
+[ 2012-08-21T23:12:43+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:12:43+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001402s ]
+[ 2012-08-21T23:12:43+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001525s ]
+[ 2012-08-21T23:12:43+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:12:43+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001513s ]
+[ 2012-08-21T23:12:43+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001590s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002787s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002922s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002062s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002137s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005971s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000478s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003286s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003372s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 25 行.
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.018919s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018999s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002209s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001903s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001643s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001995s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007986s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001997s ]
+[ 2012-08-21T23:13:01+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002078s ]
+[ 2012-08-21T23:13:02+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:13:02+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001828s ]
+[ 2012-08-21T23:13:02+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001952s ]
+[ 2012-08-21T23:13:02+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:13:02+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001613s ]
+[ 2012-08-21T23:13:02+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001689s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002608s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002736s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001595s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001671s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006626s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000443s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003003s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003096s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 25 行.
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.030164s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030245s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001629s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001727s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001269s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001628s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006482s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001753s ]
+[ 2012-08-21T23:14:59+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001837s ]
+[ 2012-08-21T23:15:01+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:15:01+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001991s ]
+[ 2012-08-21T23:15:01+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002120s ]
+[ 2012-08-21T23:15:01+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:15:01+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002388s ]
+[ 2012-08-21T23:15:01+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002479s ]
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002490s ]
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002622s ]
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001717s ]
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001794s ]
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005643s ]
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000772s ]
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002750s ]
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002841s ]
+[ 2012-08-21T23:16:14+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | NOTIC: [8] Undefined variable: arr_user 848f4ea4b484aba8c291b28d2c23095d.php 第 26 行.
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020386s ]
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020464s ]
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001562s ]
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001425s ]
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001201s ]
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001838s ]
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006257s ]
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001598s ]
+[ 2012-08-21T23:16:15+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001678s ]
+[ 2012-08-21T23:16:16+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:16:16+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001476s ]
+[ 2012-08-21T23:16:16+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001600s ]
+[ 2012-08-21T23:16:16+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:16:16+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001526s ]
+[ 2012-08-21T23:16:16+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001600s ]
+[ 2012-08-21T23:17:05+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:17:05+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002427s ]
+[ 2012-08-21T23:17:05+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002555s ]
+[ 2012-08-21T23:17:05+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:17:05+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001374s ]
+[ 2012-08-21T23:17:05+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001447s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005910s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000443s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002720s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002807s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019219s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019335s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001788s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001467s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001236s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001638s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006363s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001511s ]
+[ 2012-08-21T23:17:06+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001587s ]
+[ 2012-08-21T23:17:07+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:17:07+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.003201s ]
+[ 2012-08-21T23:17:07+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.003399s ]
+[ 2012-08-21T23:17:07+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:17:07+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001575s ]
+[ 2012-08-21T23:17:07+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001676s ]
+[ 2012-08-21T23:17:23+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:17:23+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.003284s ]
+[ 2012-08-21T23:17:23+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.003495s ]
+[ 2012-08-21T23:17:23+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:17:23+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001774s ]
+[ 2012-08-21T23:17:23+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001893s ]
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002359s ]
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002483s ]
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001810s ]
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001901s ]
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006464s ]
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000514s ]
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002856s ]
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002938s ]
+[ 2012-08-21T23:19:11+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021288s ]
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021389s ]
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001483s ]
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001436s ]
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002281s ]
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001715s ]
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007214s ]
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001783s ]
+[ 2012-08-21T23:19:12+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001875s ]
+[ 2012-08-21T23:19:13+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:19:13+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001906s ]
+[ 2012-08-21T23:19:13+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002032s ]
+[ 2012-08-21T23:19:13+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:19:13+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001512s ]
+[ 2012-08-21T23:19:13+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001589s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002150s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002309s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001755s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001854s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.007266s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000456s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003213s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003311s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.026034s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026137s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001836s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001900s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001772s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001656s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007524s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001681s ]
+[ 2012-08-21T23:20:01+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001765s ]
+[ 2012-08-21T23:20:02+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:20:02+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001878s ]
+[ 2012-08-21T23:20:02+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002006s ]
+[ 2012-08-21T23:20:02+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:20:02+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001588s ]
+[ 2012-08-21T23:20:02+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001675s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.001799s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001928s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001457s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001533s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005564s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000557s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003080s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003179s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.024531s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.024654s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001971s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001524s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001204s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001370s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006301s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002561s ]
+[ 2012-08-21T23:21:08+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002659s ]
+[ 2012-08-21T23:21:09+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:21:09+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001812s ]
+[ 2012-08-21T23:21:09+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001942s ]
+[ 2012-08-21T23:21:09+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:21:09+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001548s ]
+[ 2012-08-21T23:21:09+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001628s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002734s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002883s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002124s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003698s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005460s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000415s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002939s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003030s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021122s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021230s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001731s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002340s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001534s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001673s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007561s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001513s ]
+[ 2012-08-21T23:23:04+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001588s ]
+[ 2012-08-21T23:23:05+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:23:05+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002435s ]
+[ 2012-08-21T23:23:05+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002644s ]
+[ 2012-08-21T23:23:05+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:23:05+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001377s ]
+[ 2012-08-21T23:23:05+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001470s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002055s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002192s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001097s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001171s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.007086s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000529s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003035s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003140s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019366s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019476s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001567s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001399s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001350s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001602s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006160s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001767s ]
+[ 2012-08-21T23:24:07+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001874s ]
+[ 2012-08-21T23:24:09+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:24:09+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002030s ]
+[ 2012-08-21T23:24:09+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002178s ]
+[ 2012-08-21T23:24:09+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:24:09+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001109s ]
+[ 2012-08-21T23:24:09+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001186s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002181s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002308s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001680s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001754s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.008143s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.002213s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.004061s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004185s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021336s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021441s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001372s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001945s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001412s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001483s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006449s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001434s ]
+[ 2012-08-21T23:24:29+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001507s ]
+[ 2012-08-21T23:24:31+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:24:31+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001557s ]
+[ 2012-08-21T23:24:31+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001685s ]
+[ 2012-08-21T23:24:31+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:24:31+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001094s ]
+[ 2012-08-21T23:24:31+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001171s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002728s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002861s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001705s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001782s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.007585s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000517s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002944s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003038s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.030873s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030973s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001406s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001809s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001290s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001984s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006734s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002575s ]
+[ 2012-08-21T23:24:52+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002668s ]
+[ 2012-08-21T23:24:53+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:24:53+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001424s ]
+[ 2012-08-21T23:24:53+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001549s ]
+[ 2012-08-21T23:24:53+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:24:53+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001752s ]
+[ 2012-08-21T23:24:53+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001832s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003115s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003250s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001522s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001607s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006834s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000499s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002474s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002555s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.059370s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.059514s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002471s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002232s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001655s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001723s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.008404s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.004380s ]
+[ 2012-08-21T23:25:32+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.004512s ]
+[ 2012-08-21T23:25:33+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:25:33+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002455s ]
+[ 2012-08-21T23:25:33+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002624s ]
+[ 2012-08-21T23:25:33+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:25:33+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001058s ]
+[ 2012-08-21T23:25:33+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001140s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002819s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002951s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001777s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001862s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005935s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000596s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002743s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002831s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019811s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019915s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001407s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001217s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001334s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001477s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005802s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001546s ]
+[ 2012-08-21T23:26:12+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001630s ]
+[ 2012-08-21T23:26:14+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:26:14+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002188s ]
+[ 2012-08-21T23:26:14+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002414s ]
+[ 2012-08-21T23:26:14+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:26:14+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001297s ]
+[ 2012-08-21T23:26:14+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001380s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002099s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002225s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001415s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001494s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005777s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000431s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002911s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003012s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020383s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020489s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001507s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001501s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001254s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001395s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005887s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001517s ]
+[ 2012-08-21T23:27:13+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001626s ]
+[ 2012-08-21T23:27:14+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:27:14+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.003159s ]
+[ 2012-08-21T23:27:14+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.003368s ]
+[ 2012-08-21T23:27:14+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:27:14+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001830s ]
+[ 2012-08-21T23:27:14+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001987s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002564s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002702s ]
+[ 2012-08-21T23:27:28+08:00 ] / | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006502s ]
+[ 2012-08-21T23:27:28+08:00 ] / | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000506s ]
+[ 2012-08-21T23:27:28+08:00 ] / | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.006031s ]
+[ 2012-08-21T23:27:28+08:00 ] / | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-21T23:27:28+08:00 ] / | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-21T23:27:28+08:00 ] / | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000654s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.003281s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.003386s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.022377s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022470s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.001449s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.001432s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001268s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.001233s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005595s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.001498s ]
+[ 2012-08-21T23:27:28+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.001571s ]
+[ 2012-08-21T23:27:30+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:27:30+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001650s ]
+[ 2012-08-21T23:27:30+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001775s ]
+[ 2012-08-21T23:27:30+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:27:30+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001022s ]
+[ 2012-08-21T23:27:30+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001094s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001907s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002091s ]
+[ 2012-08-21T23:28:18+08:00 ] / | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006368s ]
+[ 2012-08-21T23:28:18+08:00 ] / | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000709s ]
+[ 2012-08-21T23:28:18+08:00 ] / | SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.006131s ]
+[ 2012-08-21T23:28:18+08:00 ] / | NOTIC: [8] Undefined index: id HomeAction.class.php 第 14 行.
+[ 2012-08-21T23:28:18+08:00 ] / | NOTIC: [8] Undefined variable: data HomeAction.class.php 第 17 行.
+[ 2012-08-21T23:28:18+08:00 ] / | SQL: SELECT * FROM `my_article` ORDER BY create_time desc LIMIT 3   [ RunTime:0.000501s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.002846s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.002945s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.026005s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026099s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.001378s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.001440s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002232s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.001571s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006864s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.001460s ]
+[ 2012-08-21T23:28:18+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.001535s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002520s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002655s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001969s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002062s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006261s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000959s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003343s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003453s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.027144s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027247s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002603s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001373s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001230s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001486s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006938s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001612s ]
+[ 2012-08-21T23:28:19+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001698s ]
+[ 2012-08-21T23:28:20+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:28:20+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002912s ]
+[ 2012-08-21T23:28:20+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.003080s ]
+[ 2012-08-21T23:28:20+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:28:20+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001048s ]
+[ 2012-08-21T23:28:20+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001122s ]
+[ 2012-08-21T23:28:21+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:28:21+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001920s ]
+[ 2012-08-21T23:28:21+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002050s ]
+[ 2012-08-21T23:28:21+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:28:21+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001105s ]
+[ 2012-08-21T23:28:21+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001266s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.001788s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001913s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001030s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001106s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006139s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000580s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002733s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002825s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019658s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019784s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001574s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001802s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001614s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001830s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007098s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001858s ]
+[ 2012-08-21T23:28:23+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001950s ]
+[ 2012-08-21T23:28:24+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:28:24+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001886s ]
+[ 2012-08-21T23:28:24+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002014s ]
+[ 2012-08-21T23:28:24+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:28:24+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001041s ]
+[ 2012-08-21T23:28:24+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001122s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003054s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003254s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001525s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001625s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006277s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000459s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002540s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002640s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.021765s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021911s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.004055s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001801s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001668s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.003652s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.011520s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002152s ]
+[ 2012-08-21T23:29:05+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002262s ]
+[ 2012-08-21T23:29:06+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:29:06+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001877s ]
+[ 2012-08-21T23:29:06+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002002s ]
+[ 2012-08-21T23:29:06+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:29:06+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001096s ]
+[ 2012-08-21T23:29:06+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001180s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002431s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002560s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001327s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001401s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006224s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000505s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003035s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003127s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019524s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019638s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001555s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001403s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001190s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001550s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005923s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001162s ]
+[ 2012-08-21T23:29:54+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001235s ]
+[ 2012-08-21T23:29:55+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:29:55+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001463s ]
+[ 2012-08-21T23:29:55+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001724s ]
+[ 2012-08-21T23:29:55+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:29:55+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001131s ]
+[ 2012-08-21T23:29:55+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001219s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002337s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002482s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001786s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001870s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006956s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000565s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002943s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003033s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.022776s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.022881s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.002030s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001587s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001336s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001196s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006391s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001567s ]
+[ 2012-08-21T23:30:06+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001649s ]
+[ 2012-08-21T23:30:07+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:30:07+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001475s ]
+[ 2012-08-21T23:30:07+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001601s ]
+[ 2012-08-21T23:30:07+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:30:07+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001050s ]
+[ 2012-08-21T23:30:07+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001122s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.003041s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.003203s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002055s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002161s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006205s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000438s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002837s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002921s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019716s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019820s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001411s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001416s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001227s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001647s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005933s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001787s ]
+[ 2012-08-21T23:31:06+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001865s ]
+[ 2012-08-21T23:31:07+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:31:07+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002295s ]
+[ 2012-08-21T23:31:07+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002503s ]
+[ 2012-08-21T23:31:07+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:31:07+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001722s ]
+[ 2012-08-21T23:31:07+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001839s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002237s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002409s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001576s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001663s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006918s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000489s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002415s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002507s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.017413s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017640s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001673s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.002501s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001376s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001343s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007165s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002178s ]
+[ 2012-08-21T23:31:59+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002266s ]
+[ 2012-08-21T23:32:00+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:32:00+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002363s ]
+[ 2012-08-21T23:32:00+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002698s ]
+[ 2012-08-21T23:32:00+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:32:00+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001789s ]
+[ 2012-08-21T23:32:00+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001909s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002765s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002899s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001636s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001716s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005803s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000465s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003057s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003153s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019010s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019113s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001400s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001905s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001573s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001580s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006706s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001181s ]
+[ 2012-08-21T23:32:16+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001253s ]
+[ 2012-08-21T23:32:17+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:32:17+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001400s ]
+[ 2012-08-21T23:32:17+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001523s ]
+[ 2012-08-21T23:32:17+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:32:17+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001117s ]
+[ 2012-08-21T23:32:17+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001206s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002527s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002658s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001638s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001731s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006145s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000531s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002892s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002977s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019840s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019944s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001397s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001531s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001304s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001625s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006089s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001767s ]
+[ 2012-08-21T23:32:46+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001852s ]
+[ 2012-08-21T23:32:47+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:32:47+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001413s ]
+[ 2012-08-21T23:32:47+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001535s ]
+[ 2012-08-21T23:32:47+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:32:47+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001240s ]
+[ 2012-08-21T23:32:47+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001319s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002254s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002381s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001350s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001428s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005775s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000599s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003995s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.004104s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020565s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020680s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001617s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001490s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001209s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001340s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005888s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.002048s ]
+[ 2012-08-21T23:33:22+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002140s ]
+[ 2012-08-21T23:33:24+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:33:24+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001548s ]
+[ 2012-08-21T23:33:24+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001684s ]
+[ 2012-08-21T23:33:24+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:33:24+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001089s ]
+[ 2012-08-21T23:33:24+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001165s ]
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.001610s ]
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.001744s ]
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001187s ]
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001269s ]
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005707s ]
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000560s ]
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002946s ]
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003044s ]
+[ 2012-08-21T23:34:17+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020047s ]
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020152s ]
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001607s ]
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001301s ]
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000712s ]
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000903s ]
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004739s ]
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001317s ]
+[ 2012-08-21T23:34:18+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001392s ]
+[ 2012-08-21T23:34:19+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:34:19+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001712s ]
+[ 2012-08-21T23:34:19+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001862s ]
+[ 2012-08-21T23:34:19+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:34:19+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001312s ]
+[ 2012-08-21T23:34:19+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001402s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002493s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002629s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001363s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001437s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005892s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000504s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002777s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002915s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.018079s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018182s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001355s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001461s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001137s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001221s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005416s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001181s ]
+[ 2012-08-21T23:35:12+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001258s ]
+[ 2012-08-21T23:35:14+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:35:14+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.004231s ]
+[ 2012-08-21T23:35:14+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.004438s ]
+[ 2012-08-21T23:35:14+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:35:14+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003728s ]
+[ 2012-08-21T23:35:14+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003834s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002471s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002607s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001392s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001472s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006757s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000416s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002978s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003066s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019804s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019916s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001562s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001494s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000995s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001345s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005645s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001927s ]
+[ 2012-08-21T23:43:18+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.002019s ]
+[ 2012-08-21T23:43:19+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:43:19+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002378s ]
+[ 2012-08-21T23:43:19+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002569s ]
+[ 2012-08-21T23:43:19+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:43:19+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001707s ]
+[ 2012-08-21T23:43:19+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001835s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002489s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002636s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001380s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001464s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005655s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000438s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.003018s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003115s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.065888s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.066003s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001583s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001535s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001105s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001479s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005995s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001276s ]
+[ 2012-08-21T23:49:02+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001358s ]
+[ 2012-08-21T23:49:03+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:49:03+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002391s ]
+[ 2012-08-21T23:49:03+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002587s ]
+[ 2012-08-21T23:49:03+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:49:03+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001824s ]
+[ 2012-08-21T23:49:03+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001960s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002186s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002326s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001471s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001552s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005813s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000570s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002226s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.002315s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.016041s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016148s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001447s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001442s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001463s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001450s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006048s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001272s ]
+[ 2012-08-21T23:49:57+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001353s ]
+[ 2012-08-21T23:49:59+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:49:59+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002252s ]
+[ 2012-08-21T23:49:59+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002441s ]
+[ 2012-08-21T23:49:59+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:49:59+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002106s ]
+[ 2012-08-21T23:49:59+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002242s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.004302s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.004442s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001413s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001488s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005676s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000448s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002949s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003041s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020605s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020727s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001808s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001649s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001296s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001524s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006526s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001216s ]
+[ 2012-08-21T23:54:21+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001294s ]
+[ 2012-08-21T23:54:23+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:54:23+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002389s ]
+[ 2012-08-21T23:54:23+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002583s ]
+[ 2012-08-21T23:54:23+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:54:23+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001359s ]
+[ 2012-08-21T23:54:23+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001455s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002588s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002785s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002275s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002411s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.005774s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000504s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002943s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003026s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.019777s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.019877s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001465s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001650s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001506s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001694s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006567s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001212s ]
+[ 2012-08-21T23:54:54+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001288s ]
+[ 2012-08-21T23:54:56+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:54:56+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.002269s ]
+[ 2012-08-21T23:54:56+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.002460s ]
+[ 2012-08-21T23:54:56+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:54:56+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001706s ]
+[ 2012-08-21T23:54:56+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001825s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Run CheckRoute Behavior [ RunTime:0.002414s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ route_check ] --END-- [ RunTime:0.002546s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001478s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001556s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | SQL: SHOW COLUMNS FROM `my_catalog` [ RunTime:0.006914s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | SQL: SELECT * FROM `my_catalog` WHERE pid='1' ORDER BY sequence  [ RunTime:0.000431s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ view_template ] --START--
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Run LocationTemplate Behavior [ RunTime:0.002932s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.003030s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ view_parse ] --START--
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Run ParseTemplate Behavior [ RunTime:0.020493s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.020595s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ view_filter ] --START--
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Run ContentReplace Behavior [ RunTime:0.001525s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Run TokenBuild Behavior [ RunTime:0.001433s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001433s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Run ShowRuntime Behavior [ RunTime:0.001749s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006391s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ view_end ] --START--
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.001778s ]
+[ 2012-08-21T23:57:00+08:00 ] /admin/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.001865s ]
+[ 2012-08-21T23:57:02+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --START--
+[ 2012-08-21T23:57:02+08:00 ] /favicon.ico | INFO: Run CheckRoute Behavior [ RunTime:0.001422s ]
+[ 2012-08-21T23:57:02+08:00 ] /favicon.ico | INFO: Tag[ route_check ] --END-- [ RunTime:0.001553s ]
+[ 2012-08-21T23:57:02+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --START--
+[ 2012-08-21T23:57:02+08:00 ] /favicon.ico | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001093s ]
+[ 2012-08-21T23:57:02+08:00 ] /favicon.ico | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001167s ]

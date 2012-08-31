@@ -1,0 +1,275 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body,.btn {
+	font-size: 14px;
+	font-family: "Microsoft Yahei", "微软雅黑", Tahoma, Arial, Helvetica;
+	text-align: center;
+}
+
+input,textarea,select {
+	font-family: "Microsoft Yahei", "微软雅黑", Tahoma, Arial, Helvetica;
+}
+
+a {
+	text-decoration: none;
+	color: #222;
+}
+
+#content p {
+	text-align: left;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+fieldset,img {
+	border: 0;
+}
+
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-style: normal;
+	font-weight: normal;
+}
+
+ol,ul {
+	list-style: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: normal;
+	font-size: 15px;
+}
+
+.pointer {
+	cursor: pointer;
+}
+/*******************常见************************/
+.margin-l150 {
+	margin-left: 150px;
+}
+/*----------------------------清除浮动溢出，要在相应的地方添加clearfix class属�1�7�1�7---------------------------------------*/
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+* html .clearfix {
+	height: 0.5px;
+}
+/*********************dialog*/
+.dialog-overlay {
+	/*background: gray; filter: alpha(opacity:50); opacity: 0.5*/
+	
+}
+
+.dialog {
+	border: solid 1px #e5e5e5;
+	padding-right: 10px;
+	padding-left: 10px;
+	background: #f1f1f1; /*filter: alpha(opacity:70);*/
+	padding-bottom: 10px; /*opacity: 0.9;*/
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px
+}
+
+.dialog .bar {
+	font-weight: bold;
+	padding-left: 6px;
+	min-height: 15px;
+	padding-bottom: 8px;
+	cursor: move;
+	padding-top: 3px
+}
+
+.dialog .bar .title {
+	float: left;
+	margin-right: 10px margin-bottom:5px;
+}
+
+.dialog .bar .close {
+	float: right;
+	cursor: pointer;
+	text-decoration: underline
+}
+
+.dialog .content {
+	padding: 20px 40px;
+	background: #fff;
+}
+
+.dialog iframe {
+	width: 100%;
+	height: 100%
+}
+
+.dialog .content img {
+	max-width: 700px;
+	overflow: auto;
+	max-height: 500px;
+}
+
+/**********************网站***************/
+body {
+	background-color: #e2e2e2;
+	color: #333;
+	line-height: 22px;
+}
+
+.color-r,.color-r a {
+	color: red;
+}
+
+.color-b,.color-b a {
+	color: #1982d1;
+}
+
+.color-o,.color-o a {
+	color: #e17f2d;
+}
+
+.color-6,.color-6 a {
+	color: #666;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.margin-t30 {
+	margin-top: 30px;
+}
+
+#header,#main,#footer {
+	width: 1000px;
+	margin: 0 auto;
+	text-align: left;
+	background-color: #fff;
+	position: relative;
+}
+
+#main {
+	width: 940px;
+}
+
+.signature {
+	position: absolute;
+	left: 300px;
+	font-size: 16px;
+	margin: 70px 0 0 80px;
+	color: #666;
+}
+
+#header {
+	margin-top: 20px;
+	height: 20px;
+	background: #fff url(http://127.0.0.1/me/Common/image/bg-top.jpg) no-repeat top left;
+}
+
+#main {
+	padding: 10px 30px;
+}
+
+#content {
+	width: 600px;
+	float: left;
+}
+
+#footer {
+	margin-bottom: 10px;
+	padding-top: 20px;
+	height: 80px;
+	text-align: center;
+	background: #fff url(http://127.0.0.1/me/Common/image/bg-footer.jpg) bottom left no-repeat;
+}
+
+/*******************表单************************/
+.m_text {
+	width: 720px;
+	height: 300px;
+	border: solid 1px #aaa;
+	border-radius: 10px;
+	/*diandian*/
+	line-height: 18px;
+	padding: 9px 8px;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	outline: none;
+	font-size: 14px;
+	overflow: hidden;
+	color: #666;
+	background: #F7F8F8;
+	border: 1px solid #C9CACC;
+	border-bottom: 1px solid #B1B3B5;
+	box-shadow: 0 1px 1px #C9CACC;
+	border-bottom: 1px solid #A1A3A5;
+	background: white;
+	color: #444;
+}
+
+label {
+	display: inline-block;
+	float: left;
+	margin-right: 15px;
+	text-align: right;
+	font-size: 14px;
+	line-height: 30px;
+	vertical-align: baseline;
+}
+
+.star {
+	color: red;
+}
+
+.item {
+	margin: 15px 0;
+	zoom: 1;
+}
+
+.basic-input {
+	width: 200px;
+	padding: 3px 5px;
+	height: 18px;
+	font-size: 14px;
+	vertical-align: middle;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #C9C9C9;
+}
+
+.remember {
+	cursor: pointer;
+	font-size: 12px;
+	display: inline;
+	width: auto;
+	text-align: left;
+	float: none;
+	margin: 0;
+	color: #666;
+}
+
+.btn-submit {
+	cursor: pointer;
+	color: #333;
+	background: #d5d5d5;
+	border: 1px solid #d5d5d5;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 4px 26px;
+	border-radius: 3px;
+}
+
+.form_tip {
+	font-size: 12px;
+	color: #999;
+}

@@ -1,0 +1,28 @@
+<include file="./Tpl/public/header.html" title="{$arr_diary['title']} | 日记 ｜ 飘落涯个人博客" keywords="追寻真实，做自己喜欢做的事"/>
+
+<div id="main" class="clearfix">
+   <div id="content" style="width:640px;">
+      <h1>{$arr_diary['title']}</h1>
+      <div class="content">{$arr_diary['content']}</div>
+      <div class="detail color-b">分类：<span class="color-o" ><a href="" >{$arr_diary['category']}</a></span> ｜ 创建于{$arr_diary['create_time']|date='Y年m月d日 H:i', ###}</div>
+      <p class="login_tip">评论功能暂时关闭</p>
+   </div>
+   
+   <div id="columns">
+     <div class="column">
+        <h2 class="column_title">日记本</h2>
+        <ul class="diary">
+          <volist name="list_catalog" id="vo">
+          <li><a href="{$Think.const.ROOT}/diary/?id={$vo.id}">{$vo.name}</a></li>
+          </volist>
+       <!--   <li><a href="">那些事</a></li><li><a href="">那些人</a></li>--></ul>
+     </div>
+     <div class="column margin-t30">
+         <h2 class="column_title">日记归档</h2>
+         <ul class="archive"><volist name="list_archive" id="vo">
+           <li><a href="{$Think.const.ROOT}/diary/?archive={$vo.year_month}">20{$vo.year_month|str_replace='.','年',###}月&nbsp;<span class="color-o">[{$vo.num}]</span></a></li>
+         </volist></ul>
+     </div>
+   </div>
+</div>
+<include file="./Tpl/public/footer.html" />

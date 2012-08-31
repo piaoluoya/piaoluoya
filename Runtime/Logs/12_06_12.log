@@ -1,0 +1,186 @@
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Run CheckRoute Behavior [ RunTime:0.002271s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002405s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001464s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001540s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --START--
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.002296s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.002401s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --START--
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.017872s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017984s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --START--
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Run ContentReplace Behavior [ RunTime:0.001238s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Run TokenBuild Behavior [ RunTime:0.001239s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001096s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.001388s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005229s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --START--
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.001367s ]
+[ 2012-06-12T00:01:57+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.001444s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Run CheckRoute Behavior [ RunTime:0.001498s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.001625s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001146s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001221s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --START--
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.001099s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.001215s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --START--
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.014362s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014471s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --START--
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Run ContentReplace Behavior [ RunTime:0.001499s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Run TokenBuild Behavior [ RunTime:0.001187s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000779s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.001819s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005550s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --START--
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.001429s ]
+[ 2012-06-12T00:02:24+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.001519s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Run CheckRoute Behavior [ RunTime:0.001410s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.001535s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001502s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001603s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --START--
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000992s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.001091s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --START--
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.016797s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016907s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --START--
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Run ContentReplace Behavior [ RunTime:0.001371s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Run TokenBuild Behavior [ RunTime:0.001010s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000752s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.001144s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004520s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --START--
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000987s ]
+[ 2012-06-12T00:02:51+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.001063s ]
+[ 2012-06-12T00:02:55+08:00 ] /me/user/login_p.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:02:55+08:00 ] /me/user/login_p.html | INFO: Run CheckRoute Behavior [ RunTime:0.002714s ]
+[ 2012-06-12T00:02:55+08:00 ] /me/user/login_p.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002900s ]
+[ 2012-06-12T00:02:55+08:00 ] /me/user/login_p.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:02:55+08:00 ] /me/user/login_p.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001401s ]
+[ 2012-06-12T00:02:55+08:00 ] /me/user/login_p.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001489s ]
+[ 2012-06-12T00:02:55+08:00 ] /me/user/login_p.html | NOTIC: [8] Undefined index: mod UserAction.class.php 第 18 行.
+[ 2012-06-12T00:02:56+08:00 ] /me/user/login_p.html | SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.536377s ]
+[ 2012-06-12T00:02:57+08:00 ] /me/user/login_p.html | SQL: SELECT * FROM `my_user` WHERE ( `username` = '111' ) AND ( `password` = '111' ) LIMIT 1   [ RunTime:0.115774s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Run CheckRoute Behavior [ RunTime:0.001420s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.001547s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001136s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001214s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --START--
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.001095s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.001202s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --START--
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.014239s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014371s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --START--
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Run ContentReplace Behavior [ RunTime:0.001745s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Run TokenBuild Behavior [ RunTime:0.001037s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000744s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.001225s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004992s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --START--
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.002054s ]
+[ 2012-06-12T00:03:49+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.002166s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Run CheckRoute Behavior [ RunTime:0.002594s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002788s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002080s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002173s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --START--
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.002120s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.002225s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --START--
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.016637s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016748s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --START--
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Run ContentReplace Behavior [ RunTime:0.001228s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Run TokenBuild Behavior [ RunTime:0.001818s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001261s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.001516s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006078s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --START--
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.001348s ]
+[ 2012-06-12T00:04:53+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.001430s ]
+[ 2012-06-12T00:04:57+08:00 ] /me/user/login_p.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:04:57+08:00 ] /me/user/login_p.html | INFO: Run CheckRoute Behavior [ RunTime:0.001567s ]
+[ 2012-06-12T00:04:57+08:00 ] /me/user/login_p.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.001698s ]
+[ 2012-06-12T00:04:57+08:00 ] /me/user/login_p.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:04:57+08:00 ] /me/user/login_p.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001090s ]
+[ 2012-06-12T00:04:57+08:00 ] /me/user/login_p.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001186s ]
+[ 2012-06-12T00:04:57+08:00 ] /me/user/login_p.html | NOTIC: [8] Undefined index: mod UserAction.class.php 第 18 行.
+[ 2012-06-12T00:04:57+08:00 ] /me/user/login_p.html | SQL: SHOW COLUMNS FROM `my_user` [ RunTime:0.007744s ]
+[ 2012-06-12T00:04:57+08:00 ] /me/user/login_p.html | SQL: SELECT * FROM `my_user` WHERE ( `username` = '111' ) AND ( `password` = '' ) LIMIT 1   [ RunTime:0.001085s ]
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Run CheckRoute Behavior [ RunTime:0.002390s ]
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002542s ]
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001429s ]
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001517s ]
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --START--
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.001229s ]
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.001329s ]
+[ 2012-06-12T00:05:47+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --START--
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.014604s ]
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.014710s ]
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --START--
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Run ContentReplace Behavior [ RunTime:0.001808s ]
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Run TokenBuild Behavior [ RunTime:0.007757s ]
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001463s ]
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.001132s ]
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.012996s ]
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --START--
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.001148s ]
+[ 2012-06-12T00:05:48+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.001224s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Run CheckRoute Behavior [ RunTime:0.002649s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002815s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.006561s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006744s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --START--
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.001498s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.001605s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --START--
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.016590s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016707s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --START--
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Run ContentReplace Behavior [ RunTime:0.001123s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Run TokenBuild Behavior [ RunTime:0.001326s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000940s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.001391s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005053s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --START--
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.001145s ]
+[ 2012-06-12T00:06:16+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.001234s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --START--
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Run CheckRoute Behavior [ RunTime:0.002713s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.002865s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --START--
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002242s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002341s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --START--
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.001088s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.001200s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --START--
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.032268s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032401s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --START--
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Run ContentReplace Behavior [ RunTime:0.002315s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Run TokenBuild Behavior [ RunTime:0.001178s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.005010s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.001326s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.010134s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --START--
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.001161s ]
+[ 2012-06-12T00:06:49+08:00 ] /me/user/login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.001256s ]

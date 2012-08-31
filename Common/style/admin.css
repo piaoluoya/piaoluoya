@@ -1,0 +1,65 @@
+/****************header**********************/
+#header {
+	padding-top: 15px;
+}
+
+#header h1 {
+	margin-left: 20px;
+	font-size: 17px;
+}
+
+#user {
+	float: right;
+	margin: -30px 40px 0 0;
+	color: #999;
+}
+
+/******************菜单*************************/
+#column {
+	float: left;
+	margin-top: 20px;
+	width: 120px;
+}
+
+#column li {
+	height: 24px;
+	padding: 3px 0 0 35px;
+	border-bottom: dashed 1px #999;
+}
+
+#column li.panel {
+	background: url('http://127.0.0.1/me/Common/image/admin_icon.jpg') no-repeat 5px 0;
+}
+
+#column li.aticle {
+	background: url('http://127.0.0.1/me/Common/image/admin_icon.jpg') no-repeat 5px -25px;
+}
+
+#column li.photo {
+	background: url('http://127.0.0.1/me/Common/image/admin_icon.jpg') no-repeat 5px -50px;
+}
+
+#column li.comment {
+	background: url('http://127.0.0.1/me/Common/image/admin_icon.jpg') no-repeat 5px -76px;
+}
+
+#column li.user {
+	background: url('http://127.0.0.1/me/Common/image/admin_icon.jpg') no-repeat 5px -102px;
+}
+
+#column li.config {
+	background: url('http://127.0.0.1/me/Common/image/admin_icon.jpg') no-repeat 5px -128px;
+}
+
+/******************正文*************************/
+#content {
+	float: right;
+	width: 790px;
+}
+
+.r_category {
+	width: 214px;
+	height: 26px;
+	border-radius: 3px;
+	border: 1px solid #C9CACC;
+}
