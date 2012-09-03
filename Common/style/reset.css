@@ -334,14 +334,14 @@ body {
 	margin: -7px 0 0 0;
 	padding-left: 100px;
 	height: 38px;
-	background: url(http://127.0.0.1/piaoluoya/Common/image/bg-navi.jpg) no-repeat left 24px;
+	background: url(http://127.0.0.1/me/Common/image/bg-navi.jpg) no-repeat left 24px;
 	font-size: 16px;
 }
 
 #navigator ul li {
 	float: left; /* padding:5px 10px;*/
 	padding-left: 18px;
-	background: url(http://127.0.0.1/piaoluoya/Common/image/navi-line.jpg) no-repeat left top;
+	background: url(http://127.0.0.1/me/Common/image/navi-line.jpg) no-repeat left top;
 }
 
 #navigator ul li.first {
@@ -355,7 +355,7 @@ body {
 #header {
 	margin-top: 20px;
 	height: 150px;
-	background: #fff url(http://127.0.0.1/piaoluoya/Common/image/bg-top.jpg) no-repeat top left;
+	background: #fff url(http://127.0.0.1/me/Common/image/bg-top.jpg) no-repeat top left;
 }
 
 #main {
@@ -391,7 +391,7 @@ body {
 .column_title {
 	height: 30px;
 	padding: 5px 0 0 30px;
-	background: url(http://127.0.0.1/piaoluoya/Common/image/bg-column.jpg) no-repeat left top;
+	background: url(http://127.0.0.1/me/Common/image/bg-column.jpg) no-repeat left top;
 }
 
 .column ul {
@@ -401,7 +401,7 @@ body {
 .column ul.diary li {
 	padding: 0 0 0 20px;
 	line-height: 30px;
-	background: url(http://127.0.0.1/piaoluoya/Common/image/arrow-left.jpg) no-repeat 2px 7px;
+	background: url(http://127.0.0.1/me/Common/image/arrow-left.jpg) no-repeat 2px 7px;
 	border-bottom: dashed 1px #999;
 }
 
@@ -434,7 +434,7 @@ body {
 	padding-top: 20px;
 	height: 80px;
 	text-align: center;
-	background: #fff url(http://127.0.0.1/piaoluoya/Common/image/bg-footer.jpg) bottom left no-repeat;
+	background: #fff url(http://127.0.0.1/me/Common/image/bg-footer.jpg) bottom left no-repeat;
 }
 /*文章正文部分*/
 #content h1 {

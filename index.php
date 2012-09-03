@@ -4,6 +4,6 @@ define ( 'APP_PATH', './' );
 // 调试模式
 define ( 'APP_DEBUG', true );
 
-define('ROOT', 'http://127.0.0.1/piaoluoya');
+define('ROOT', 'http://127.0.0.1/me');
 // 加载框架入口文件
 require './ThinkPHP/ThinkPHP.php';

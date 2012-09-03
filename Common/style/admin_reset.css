@@ -48,8 +48,6 @@ h1,h2,h3,h4,h5,h6 {
 .pointer {
 	cursor: pointer;
 }
-.hidden{display:none;}
-.text_l{text-align:left;}
 /*******************常见************************/
 .margin-l150 {
 	margin-left: 150px;
@@ -173,7 +171,7 @@ body {
 #header {
 	margin-top: 20px;
 	height: 20px;
-	background: #fff url(http://127.0.0.1/piaoluoya/Common/image/bg-top.jpg) no-repeat top left;
+	background: #fff url(http://127.0.0.1/me/Common/image/bg-top.jpg) no-repeat top left;
 }
 
 #main {
@@ -190,7 +188,7 @@ body {
 	padding-top: 20px;
 	height: 80px;
 	text-align: center;
-	background: #fff url(http://127.0.0.1/piaoluoya/Common/image/bg-footer.jpg) bottom left no-repeat;
+	background: #fff url(http://127.0.0.1/me/Common/image/bg-footer.jpg) bottom left no-repeat;
 }
 
 /*******************表单************************/

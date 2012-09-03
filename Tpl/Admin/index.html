@@ -1,4 +1,5 @@
-<include file="./Tpl/public/admin_header.html" title="管理中心" keywords="追寻真实，做自己喜欢做的事" />
+<include file="./Tpl/public/admin_header.html"
+	title="管理中心 ｄ1�7 飘落涯个人博宄1�7" keywords="追寻真实，做自己喜欢做的亄1�7" />
 
 <div id="main" class="clearfix">
 	<div id="column">
@@ -12,11 +13,11 @@
 		</ul>
 	</div>
 	<div id="content">
-		<form action="{$Think.const.ROOT}/admin/article_add_post.html" method="post" id="r_form">
+		<form action="/admin/remember_post.html" method="post" id="r_form">
 			<div class="item">
 				<label>标题</label><input type="text" name="title"
 					class="basic-input r_title" />
-			</div>	
+			</div>
 			<div class="item">
 				<textarea name="content" class="m_text r_content"></textarea>
 			</div>
@@ -32,29 +33,13 @@
 					class="basic-input r_create_time" />
 			</div>
 			<div class="item">
-				<input type="submit" value="预览" id="preview" class="btn-submit" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="submit" value="预览" class="btn-submit" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				<input type="submit" value="发表" class="btn-submit" />
 			</div>
 		</form>
 	</div>
 </div>
-<script type="text/javascript">
-$().ready(function(){
-	$('#preview').click(function(){
-		var url = $('#content form').attr('action'),
-		title = $('input[name="title"]').val(),
-		content = $('textarea[name="content"]').val(),
-		category = $('select[name="category"]').val(),
-		create_time = $('input[name="create_time"]').val();
-		//alert(url + ' '+title+'  '+content+'  '+category+'  '+create_time);
-		$.post(url,  {title:title,content:content, category:category, create_time:create_time}, function(data){
-			//alert(data);
-			alert('ff');
-		});
-		alert('000');
-		return false;
-	});
-});
-
-</script>
-<include file="./Tpl/public/footer.html" />
+<div id="footer">
+	版权扄1�7朄1�7&copy;2012 &nbsp;&nbsp;飘落涄1�7/div>
+	</body>
+	</html>
